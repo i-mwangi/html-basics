@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tables</title><style>
+        body{
+            font-family: Arial,sans-serif;/*sets the font for the body*/
+            background-color: whitesmoke;/*light gray background for the body*/
+            display: flex;/*Uses flexbox for layout*/
+            justify-content: center ;/*justifies the table the centre*/
+            align-items: center;/*aligns cells items at the centre*/
+            height: 100vh;/*sets the viewpoint height to 100%*/
+            margin:1%;/*sets the table to 1% margin from the edge of the display window*/
+        }
+        table{
+            width:100%;/*sets the width of the table to 100%*/
+            border-collapse: collapse;/*removes borders between cells*/
+            background-color: white;/* makes the background of the table to be white*/
+            border-radius: 10px;/*makes the rounded corners on the table*/
+            overflow:hidden;/*hides overflow to maintain the round corners on the table*/
+        }
+        tr:last-child{
+            border-bottom: 5px solid forestgreen;/* adds the forestgreen bottom border*/
+        }
+        th,td{
+            text-align: left;/*aligns the text to left*/
+            padding: 15px;/*sets padding area on all the four parts of the items*/
+        }
+        th{
+            background-color: forestgreen;/*makes the background forestgreen*/
+            color: white;/*makes the text white*/
+            font-size: 15px;/* increases the font size of  text to 15px*/
+        }
+        td{
+            font-size: 15px;/* increases the font size the data in the cells to 15px */
+        }
+        tr:nth-child(even){
+            background-color: lightgray;/*lightgray for all even rows*/
+        }
+    </style>
+
+
+
+
+
+</head>
+<body>
+
+</head>
+<body>
+<table>
+    <tr>
+        <th>Rank</th>
+        <th>Name</th>
+        <th>Points</th>
+        <th>Team</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Domenic</td>
+        <td>88,110</td>
+        <td>dcode</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Sally</td>
+        <td>72,400</td>
+        <td>Students</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Nick</td>
+        <td>52,300</td>
+        <td>dcode</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
