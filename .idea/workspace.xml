@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ea75db1-381b-45e6-8bf5-4142834e283b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/simple webpage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6ea75db1-381b-45e6-8bf5-4142834e283b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +33,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "branch-2",
     "last_opened_file_path": "C:/Users/Administrator/Music/eMobilis web developemt/HTML-CSS Basics",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -96,7 +93,7 @@
       <workItem from="1728649903310" duration="2000000" />
       <workItem from="1728665988384" duration="9001000" />
       <workItem from="1728969535933" duration="20079000" />
-      <workItem from="1729425136496" duration="3273000" />
+      <workItem from="1729425136496" duration="3937000" />
     </task>
     <servers />
   </component>
